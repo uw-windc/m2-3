@@ -1,0 +1,50 @@
+{
+    "M": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "Income",
+        "values": 100.0
+    },
+    "P1": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "",
+        "values": 1.0
+    },
+    "P2": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "Prices of goods X1 and X2",
+        "values": 1.0
+    },
+    "S1": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "",
+        "values": 0.5
+    },
+    "S2": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "utility shares of X1 and X2",
+        "values": 0.5
+    },
+    "RATION": {
+        "type": "GamsParameter",
+        "dimension": 0,
+        "domain": [],
+        "number_records": 1,
+        "text": "rationing constraint on the quantity of X1",
+        "values": 100.0
+    }
+}
